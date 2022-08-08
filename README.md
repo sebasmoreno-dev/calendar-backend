@@ -5,7 +5,7 @@
 ### **Specific topics of the section**
 
 - **What will we see in this section?**
-     - Do not give
+     - Node
      -express
      -Mongoose
      - Models
