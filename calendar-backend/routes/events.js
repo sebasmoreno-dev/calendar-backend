@@ -15,7 +15,6 @@ const router = Router();
 //* Todas tienen que pasar por la validación del JWT
 router.use( validarJWT );
 
-
 //* Obtener eventos
 router.get('/', getEventos );
 
