@@ -121,7 +121,7 @@ const deleteEvento = async ( req, res = response) => {
 
     res.json({
       ok: true,
-      evento: eventoEliminado 
+      evento: eventoEliminado
     });
 
 
